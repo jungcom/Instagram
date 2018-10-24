@@ -50,6 +50,13 @@ List an 3rd party libraries, icons, graphics, or other assets you used in your a
 
 - [AFNetworking](https://github.com/AFNetworking/AFNetworking) - networking task library
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://i.imgur.com/b8FSZ7T.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
